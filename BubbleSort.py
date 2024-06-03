@@ -1,4 +1,4 @@
-# 冒泡排序
+# 冒泡排序 O(n**2)
 import random
 
 ini = []
