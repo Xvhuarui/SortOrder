@@ -1,4 +1,4 @@
-# 希尔排序 O(n*logn)到 O(n**2)
+# 希尔排序 O(n*logn)到O(n**2)
 import random
 
 ini = []
