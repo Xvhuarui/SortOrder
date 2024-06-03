@@ -1,4 +1,4 @@
-# 选择排序
+# 选择排序 O(n**2)
 import random
 
 ini = []
